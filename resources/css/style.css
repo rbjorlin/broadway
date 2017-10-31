@@ -14,7 +14,12 @@ ul {
 	list-style-type: none;
 	color: white;
 	font-size: 18px;
+	color: white;
 }
 li {
 	padding: 10px;
+	color: white;
+}
+a {
+	color: white;
 }
